@@ -436,7 +436,7 @@ with st.container():
 
     with col_img:
         st.image(
-            "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?auto=format&fit=crop&w=900&q=80",
+            "https://i.postimg.cc/hhV1JNhn/unnamed-4.jpg",
             use_container_width=True
         )
 
